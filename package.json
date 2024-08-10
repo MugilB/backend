@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@mui/styles": "^5.16.6",
     "autosuggest-highlight": "^3.3.4",
     "chart.js": "^4.4.3",
     "react-chartjs-2": "^5.2.0",
